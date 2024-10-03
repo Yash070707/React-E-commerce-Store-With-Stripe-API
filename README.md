@@ -34,9 +34,11 @@ Before running the project, ensure you have the following installed:
    cd React-E-commerce-Store-With-Stripe-API/store
 
 2. Install backend dependencies:
+    ```bash
     npm install
 
 3. Install frontend dependencies:
+    ```bash
     cd src
     npm install
 
@@ -44,9 +46,11 @@ Before running the project, ensure you have the following installed:
 
 ### Running the Application
 1. Start the backend server:
+    ```bash
     npm run server
 
 2. Start the frontend development server:
+    ```bash
     npm start
 
 
